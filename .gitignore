@@ -1,0 +1,11 @@
+# Ignore Python byte-code files
+*.pyc
+
+# Ignore development environment
+.env
+
+# Ignore system files
+.DS_Store
+
+.sec
+
