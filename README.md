@@ -46,6 +46,11 @@ Dockerコンテナを停止するには、次のコマンドを実行します:
 docker-compose down
 ```
 
+### Docker コンテナ内にはいる
+docker-compose exec web bash
+
+### コンテナからでる
+exit
 ## 貢献
 
 このプロジェクトに貢献する方法については、CONTRIBUTING.mdファイルを参照してください。
